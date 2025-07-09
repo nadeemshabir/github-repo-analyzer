@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter/IPython checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Optional: Ignore data/output folders if large or sensitive
+# data/
+# visualizations/

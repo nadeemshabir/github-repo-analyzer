@@ -1,0 +1,101 @@
+Name,Stars,Forks,Watchers,Language,Description,Topics,Contributors,Last_Push
+.github,105,132,105,,Default Community Health/Policy Files for the Microsoft organization on GitHub,,30,2025-05-28T15:44:30Z
+.Net-Interactive-Kernels-ADS,4,3,4,Jupyter Notebook,Install and Use .Net Interactive Kernels in ADS,,2,2023-07-19T02:33:47Z
+.NET-Modernization-In-a-Day,48,46,48,JavaScript,.NET Modernization In a Day workshop content,,3,2022-12-08T06:46:43Z
+0xDeCA10B,581,147,581,Python,Sharing Updatable Models (SUM) on Blockchain,"ai, artificial-intelligence, blockchain, economics, ethereum, machine-learning, ml, node, prediction-mar, prediction-market, python, react, smart-contracts, truffle",6,2025-04-30T17:26:33Z
+2019-ignite-circuit-playground,10,8,10,Python,Get started with Circuit Playground Express and the Device Simulator Express,,3,2019-11-04T23:55:01Z
+2023iotlevelup,14,6,14,Python,,,5,2023-02-21T21:45:25Z
+25-days-of-serverless,455,138,455,,Repository responsible for 25 days of Serverless challenges,"azure, azure-functions, challenge, chsharp, golang, java, javascript, nodejs, php, python, ruby, serverless, typescript",20,2023-10-13T09:45:28Z
+2LCS,108,55,108,C#,Lifecycle Services Companion App for administrators,"365, app, companion, d365fo, dynamics, finance, lcs, lifecycle, operations, services",16,2025-02-01T15:05:31Z
+3-in-1-dock,55,20,55,,,,3,2022-11-28T19:14:19Z
+30daysof,174,58,174,JavaScript,"30 Day of Learning Resources, Samples and Curricula","azure, data-science, powerapps, pwa, serverless, staticwebapp",12,2023-10-07T04:16:39Z
+50BusinessAssignmentsLog,8,2,8,,Dataset containing an Event Log of 165 recordings of 50 business assignments.,,3,2024-05-05T12:31:52Z
+A-CLIP,32,4,32,Python,"Official Implementation of Attentive Mask CLIP (ICCV2023, https://arxiv.org/abs/2212.08653)",,3,2024-05-29T14:40:11Z
+A-TALE-OF-THREE-CITIES,86,34,86,R,"Analyzing the safety (311) dataset published by Azure Open Datasets for Chicago, Boston and New York City using SparkR, SParkSQL, Azure Databricks, visualization using ggplot2 and leaflet. Focus is on descriptive analytics, visualization, clustering, time series forecasting and anomaly detection.","311-data, aiforsocialgood, anomaly-detection, anomalydiscovery, azure, azure-databricks, data, databricks-notebooks, datascience-machinelearning, eda, geospatial, leaflet, opendata, r, sparkr, sparksql, time-series-analysis, timeseries-forecasting, visualization, workshop-materials",3,2021-05-03T20:14:01Z
+aaai21-copy-that,11,3,11,Python,"Source code for the ""Copy that! Editing Sequences by Copying Spans"" AAAI'21 paper",,2,2021-06-14T14:34:00Z
+aad-app-credential-tools,21,22,21,PowerShell,Tooling for application credentials,,4,2022-02-08T11:55:34Z
+aad-hybrid-lab,36,41,36,PowerShell,"Create a new VM with AD installed, test users created, PowerShell Azure AD modules, and Azure AD Connect installer ready to go.",,6,2023-06-12T19:01:59Z
+aadb2c-starter-kit,6,4,6,JavaScript,,,3,2023-08-30T22:17:54Z
+AADConnectConfigDocumenter,256,51,256,C#,AAD Connect configuration documenter is a tool to generate documentation of an AAD Connect installation.,,5,2024-04-26T21:01:42Z
+aad_b2c_webview,36,30,36,Dart,Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C.,,14,2025-05-06T13:36:11Z
+AaronLocker,652,78,652,PowerShell,Robust and practical application control for Windows,,7,2022-08-12T20:23:06Z
+ABAP-SDK-for-Azure,183,61,183,ABAP,ABAP Libraries for SAP native Integration with Azure Services,"abap, abap-sdk, abapgit, azure, azuresdk",21,2024-05-14T07:44:38Z
+abap2git,15,6,15,ABAP,"One-way sync from SAP to Git repo for ABAP objects allowing multiple systems in branches and multiple packages in one branch, supporting code objects plus configuration delta and HR/payroll PCR/schema",,5,2023-10-27T23:14:55Z
+ability-attributes,5,8,5,TypeScript,Web Application Accessibility Attributes Runtime Validator,,4,2023-11-01T09:17:33Z
+abledom,1,0,1,TypeScript,Continuous detection of typical web application accessibility problems.,,3,2025-05-23T16:10:41Z
+abstrakt,8,9,8,Go,"Business oriented, config driven DevOps",,11,2023-10-25T16:50:26Z
+aca-dev-day,2,2,2,JavaScript,Documentation and Workshop steps for Azure Container Apps Dev Day,,6,2024-12-05T23:35:46Z
+academic-knowledge-exploration-services-utilities,11,6,11,PowerShell,Utility tools and scripts for interacting with Microsoft Academic Knowledge Exploration Service (MAKES),,4,2022-08-15T14:49:03Z
+AcademicContent,2753,963,2753,Jupyter Notebook,"Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.","azure, classroom, computer-science, faculty, hackathons, labs, python, students, tech, tech-resources, tech-talks, workshops",30,2024-06-05T15:04:21Z
+acc,3,1,3,Bicep,Apps Command Center Accelerator,,3,2023-06-08T21:18:19Z
+acc-vm-engine,6,9,6,Go,ACC VM template generator,,5,2023-12-18T21:56:44Z
+accbpg,26,12,26,Jupyter Notebook,Accelerated Bregman Proximal Gradient Methods,,3,2023-06-12T19:02:37Z
+AccCheckerExtensionForVS,20,16,20,C#,Detect and resolve common accessibility issues before you ship your code with a free Visual Studio extension.,,3,2022-11-28T19:14:33Z
+accelerated-dft,24,1,24,Jupyter Notebook,Repository to host supporting information and code samples for Accelerated DFT,,6,2025-04-29T21:04:44Z
+acceleratoRs,146,139,146,HTML,"Data science and AI solution accelerator suite that provides templates for prototyping, reporting, and presenting data science analytics of specific domains","data-science, r",9,2022-08-31T15:22:04Z
+Accera,109,20,109,C++,"Open source cross-platform compiler for compute-intensive loops used in AI algorithms, from Microsoft Research","compiler, cpu-scheduling, cross-compiler, cross-platform, cuda-kernels, gpu-acceleration, loop-fusion, loop-scheduling, loop-unrolling, machine-learning-algorithms, optimization-framework, python-library, research, rocm-kernel, tuning-parameters",8,2023-10-10T20:07:19Z
+access-reviews-samples,43,16,43,PowerShell,"This repo contains sample code that demonstrates programmatic access to Azure AD Access Reviews. Sample code includes reading and managing Access Reviews, as well as working on decisions and results of Access Reviews.",,3,2021-07-08T12:30:45Z
+accessibility-announcer,6,1,6,TypeScript,A tool to provide the screen reader announcements on the web.,,3,2021-02-12T12:42:32Z
+accessibility-insights-action,86,44,86,TypeScript,Github Action to scan for accessibility issues in github pages,,30,2025-06-10T08:47:38Z
+accessibility-insights-for-android-service,53,52,53,Java,Accessibility Insights for Android service,,21,2023-06-26T13:08:27Z
+accessibility-insights-service,71,54,71,TypeScript,Accessibility Insights Service,accessibility-insights,29,2025-06-12T20:36:17Z
+accessibility-insights-web,860,161,860,TypeScript,Accessibility Insights for Web,"accessibility, accessibility-insights, chromeextension, hacktoberfest, reactjs, typescript",30,2025-06-11T09:38:03Z
+accessibility-insights-windows,461,105,461,C#,Accessibility Insights for Windows,"accessibility, accessibility-insights, hacktoberfest, microsoft, tool, windows",30,2025-05-26T09:12:07Z
+Accessible-Connect,0,2,0,TypeScript,Accessible videoconferencing platform focusing on DHH (Deaf and Hard of Hearing).,,3,2023-10-28T04:48:47Z
+AccessorFramework,13,6,13,C++,A C++ SDK for building cyber-physical applications using the Accessor Model,"accessors, actor-model, cpp, cyber-physical-systems, iot",3,2020-02-25T22:22:00Z
+AccountGuard,7,7,7,PowerShell,Security ARM Templates for AccountGuard Enrollees ,,4,2020-02-10T01:27:49Z
+ace,851,153,851,Objective-C++,Build Cordova apps with true native UI,,8,2024-03-06T10:31:58Z
+ace-ux-components,12,4,12,TypeScript,,,9,2024-11-21T21:24:30Z
+acoustic-bird-detection,47,18,47,Jupyter Notebook,Machine learning tools for acoustic bird detection,,5,2020-10-15T15:16:15Z
+Acoustic-Perception-for-Virtual-AI-Agents,9,4,9,C++,"This repository contains source code demonstrating the techniques discussed in the associated paper, ""Efficient Acoustic Perception for Virtual AI Agents""",,3,2022-02-18T21:38:12Z
+AcousticScatteringData,15,6,15,MATLAB,Synthetic exterior acoustic scattering data and sample parsing code.,"acoustic-scattering-data, acoustics, convolutional-neural-networks, dataset, deep-neural-networks, icassp-2020, matlab, octave-bands, scattering",3,2020-02-05T18:31:26Z
+acr,1,1,1,,"Azure Container Registry samples, troubleshooting tips and references",,30,2024-07-18T18:04:19Z
+acs-kitchen-sink,3,2,3,TypeScript,Demonstrating different Azure Communication Services features,,3,2023-07-19T18:52:53Z
+act,19,3,19,Python,AML Command Transfer. A lightweight tool to transfer any command line to Azure Machine Learning Services,,3,2024-05-23T17:25:07Z
+action-armttk,3,7,3,Shell,Github Action for running ARM-TTK,,2,2024-02-06T11:48:45Z
+action-publish-symbols,6,9,6,TypeScript,GitHub Action to publish symbols to the Azure DevOps Package Management symbol server (Artifacts server).,,7,2024-04-26T22:50:21Z
+action-python,59,22,59,,,,3,2025-03-24T20:00:04Z
+activate-sensorcore,16,14,16,C#,Helper library for SensorCore SDK to activate Location and Motion data,,1,2014-11-27T12:10:44Z
+ActivateAzurewithDevOps,2,12,2,HTML,,,7,2023-07-08T20:34:38Z
+ActiveDirectoryDSC.Reverse,21,10,21,PowerShell,ReverseDSC Orchestrator for ActiveDirectory,,4,2023-06-12T19:31:19Z
+activities,22,17,22,C#,Lumia SensorCore SDK sample for Activity Monitor API.,,5,2018-10-24T16:19:51Z
+activity-log-export-automation,17,13,17,PowerShell,Connect Splunk to Azure Activity Log via PowerShell automation,"activity-log, azure, event-hubs, powershell, splunk",5,2023-06-14T15:12:11Z
+ACV,17,1,17,Python,A series of work towards achieving ACV.,"agent, auto-computing, k8s, llm, microservice, self-management",7,2025-03-26T04:47:25Z
+ada,11,5,11,C++,Source code behind the Microsoft Research project Ada,,4,2025-03-10T22:56:44Z
+ADAF,8,3,8,Python,"This repository contains the code used for ""ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting""",,4,2025-01-09T07:35:25Z
+AdaM,51,2,51,,,,2,2023-08-03T10:07:19Z
+AdaMix,133,11,133,Python,This is the implementation of the paper AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning (https://arxiv.org/abs/2205.12410). ,"adapter, bert, dart, glue, gpt-2, nlg, nlp, nlu, parameter-efficient, pytorch, roberta, webnlg",4,2023-08-14T22:22:39Z
+Adaptable,8,9,8,Java,"A tightly optimized representation of ordered, long-living, often-modified, predicate-filtered lists random-accessible by value and index. (Java)",,4,2023-06-12T20:27:40Z
+adaptive-testing,183,30,183,Jupyter Notebook,Find and fix bugs in natural language machine learning models using adaptive testing.,,8,2024-05-07T23:04:59Z
+AdaptiveCards,1844,577,1844,C#,A new way for developers to exchange card content in a common and consistent way.,"adaptive, adaptive-cards, adaptivecards, android, bot-framework, bots, cards, ios, timeline, uwp, windows, windows-uwp, wpf, xamarin, xaml",30,2025-05-30T08:26:27Z
+AdaptiveCards-.NET,3,1,3,C#,,,30,2023-06-19T22:57:31Z
+adaptivecards-templates,114,36,114,TypeScript,A collection of Adaptive Card templates for well-known data models,adaptivecards,11,2024-10-11T21:25:59Z
+adaptive_cloud_community,110,19,110,,Public repository for hosting the Azure Adaptive Cloud Community content,,4,2025-06-09T16:45:49Z
+adb2spark,2,1,2,,,,2,2022-02-24T09:38:57Z
+ADBench,108,40,108,C++,Benchmarking various AD tools.,,14,2024-05-19T11:06:06Z
+adcs-proxy-exit-module,13,1,13,C++,Exit Module for Active Directory Certificate Services that proxies calls to external programs.,,4,2023-06-23T19:09:45Z
+AddingSpeechToBots,13,13,13,C#,Adding Speech to Conversational Bots,,3,2019-02-12T19:22:21Z
+AddOutlookJapanHoliday,7,11,7,VBScript,VBScript for adding Japan new Holidays to Outlook.,,5,2023-06-13T01:11:27Z
+Addressing-signal-delay-in-deep-RL,8,3,8,Python,Addressing Signal Delay in Deep Reinforcement Learning,,4,2024-07-08T05:08:55Z
+adfs-sample-block-user-on-adfs-marked-risky-by-AzureAD-IdentityProtection,8,6,8,C#,A sample AD FS 2019 Risk Assessment Model plug-in that blocks authentication or enforces MFA based on user risk level determined by Azure AD Identity Protection. ,,3,2020-04-26T20:25:54Z
+adfs-sample-msal-dotnet-native-to-webapi,14,13,14,C#,A sample showcasing how to build a native app signing-in users authenticated by AD FS 2019 and acquiring tokens using MSAL library to call Web API.,,3,2023-05-31T20:07:28Z
+adfs-sample-msal-dotnet-webapi-to-webapi-onbehalfof,9,12,9,C#,A sample showcasing how to implement an on-behalf-of (OBO) authentication using AD FS. The sample uses MSAL client library to obtain a token for accessing Web API. ,,4,2023-06-12T18:21:03Z
+adfs-sample-RiskAssessmentModel-RiskyIPBlock,6,7,6,C#,Sample plug-in to block authentication requests coming from specified extranet IPs. ,,4,2023-06-12T18:22:27Z
+adfsAuthAdapters,27,13,27,C#,External authentication adapters for AD FS,,5,2023-06-27T13:03:56Z
+adfsLogTools,22,13,22,,"Tools for parsing AD FS logs (admin events, audits, and debug logs)",,6,2018-08-15T22:02:51Z
+adfsManagementTools,13,5,13,,A collection of scripts and tools for managing ADFS,,7,2018-08-06T22:59:10Z
+adfsOpenSource,11,13,11,,Documentation and guidance for ADFS Open Source,,4,2022-11-28T19:11:26Z
+adfsToolbox,122,30,122,PowerShell,A collection of PowerShell scripts for managing AD FS,,13,2023-06-12T19:30:39Z
+adfsUITesting,9,5,9,C#,Testing infrastructure for automated browser testing against AD FS,,4,2022-12-08T01:25:45Z
+adfsWebCustomization,113,78,113,JavaScript,A repository of useful Web Customizations for Active Directory Federation Services ,,15,2023-06-12T20:27:13Z
+ADLaM-Display,8,2,8,Makefile,"A display font for the ADLaM script, which is an indigenous writing system for some West African languages.",,3,2024-01-19T18:01:03Z
+adme-samples,13,19,13,HTML,,,28,2025-05-23T01:56:12Z
+admin-torch,44,2,44,Python,Understanding the Difficulty of Training Transformers,,3,2022-10-30T00:40:11Z
+ado-codespaces-auth,9,5,9,TypeScript,,,5,2025-06-04T12:32:31Z
+ado-ml-batch-train,7,4,7,Jupyter Notebook,,,2,2020-01-24T08:19:40Z
+ado-npm-auth,15,12,15,TypeScript,This package can automatically use the azureauth CLI to fetch tokens and update a user's .npmrc file for authenticating to Azure DevOps npm feeds.,,11,2025-05-09T19:45:37Z
+ads-extension-telemetry,4,6,4,TypeScript,,,5,2025-02-06T01:58:47Z
+ads-kerberos,4,3,4,C++,A package for providing kerberos authentication support in Azure Data Studio. ,,4,2023-03-03T08:35:16Z
+ads-service-downloader,6,11,6,TypeScript,Service downloader,,6,2024-06-22T11:31:06Z
+ADU,8,10,8,PowerShell,Appliance Diagnostic Utility (ADU) for Analytics Platform System (APS),,6,2023-06-09T13:14:23Z
+advanced-formula-environment,115,11,115,,"Create, edit, and reuse formulas in Excel","excel, office-addin",3,2022-12-08T10:33:22Z
